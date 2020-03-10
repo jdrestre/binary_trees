@@ -4,7 +4,7 @@
  * binary_tree_preorder - Function that print a Binary tree in pre-order
  * @tree: Point to a root
  * @func: function pointer
- * Return: 1 if node is a root, otherwise 0
+ * Return: Nothing
  */
 
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
