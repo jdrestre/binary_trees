@@ -27,7 +27,7 @@ File Name|Task Name|Task Description
 [5-binary_tree_is_root.c](https://github.com/MAZTRO/binary_trees/blob/master/5-binary_tree_is_root.c)|5. Is root|Write a function that checks if a given node is a root
 [6-binary_tree_preorder.c](https://github.com/MAZTRO/binary_trees/blob/master/6-binary_tree_preorder.c)|6. Pre-order traversal|Write a function that goes through a binary tree using pre-order traversal
 [7-binary_tree_inorder.c](https://github.com/MAZTRO/binary_trees/blob/master/7-binary_tree_inorder.c)|7. In-order traversal|Write a function that goes through a binary tree using in-order traversal
-
+[8-binary_tree_postorder.c](https://github.com/MAZTRO/binary_trees/blob/master/8-binary_tree_postorder.c)|8. Post-order traversal|Write a function that goes through a binary tree using post-order traversal
 
 
 
