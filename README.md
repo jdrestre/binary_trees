@@ -23,6 +23,8 @@ File Name|Task Name|Task Description
 [1-binary_tree_insert_left.c](https://github.com/MAZTRO/binary_trees/blob/master/1-binary_tree_insert_left.c)|1. Insert left|Write a function that inserts a node as the left-child of another node
 [2-binary_tree_insert_right.c](https://github.com/MAZTRO/binary_trees/blob/master/2-binary_tree_insert_right.c)|2. Insert right|Write a function that inserts a node as the right-child of another node
 [3-binary_tree_delete.c](https://github.com/MAZTRO/binary_trees/blob/master/3-binary_tree_delete.c)|3. Delete|Write a function that deletes an entire binary tree
+[4-binary_tree_is_leaf.c](https://github.com/MAZTRO/binary_trees/blob/master/4-binary_tree_is_leaf.c)|4. Is leaf|Write a function that checks if a node is a leaf
+
 
 
 ## Author
