@@ -22,6 +22,8 @@ File Name|Task Name|Task Description
 [0-binary_tree_node.c](https://github.com/MAZTRO/binary_trees/blob/master/0-binary_tree_node.c)|0. New node|Write a function that creates a binary tree node
 [1-binary_tree_insert_left.c](https://github.com/MAZTRO/binary_trees/blob/master/1-binary_tree_insert_left.c)|1. Insert left|Write a function that inserts a node as the left-child of another node
 [2-binary_tree_insert_right.c](https://github.com/MAZTRO/binary_trees/blob/master/2-binary_tree_insert_right.c)|2. Insert right|Write a function that inserts a node as the right-child of another node
+[3-binary_tree_delete.c](https://github.com/MAZTRO/binary_trees/blob/master/3-binary_tree_delete.c)|3. Delete|Write a function that deletes an entire binary tree
+
 
 ## Author
 
