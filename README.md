@@ -32,6 +32,7 @@ File Name|Task Name|Task Description
 [10-binary_tree_depth.c](https://github.com/MAZTRO/binary_trees/blob/master/10-binary_tree_depth.c)|10. Depth|Write a function that measures the depth of a node in a binary tree
 [11-binary_tree_size.c](https://github.com/MAZTRO/binary_trees/blob/master/11-binary_tree_size.c)|11. Size|Write a function that measures the size of a binary tree
 [12-binary_tree_leaves.c](https://github.com/MAZTRO/binary_trees/blob/master/12-binary_tree_leaves.c)|12. Leaves|Write a function that counts the leaves in a binary tree
+[13-binary_tree_nodes.c](https://github.com/MAZTRO/binary_trees/blob/master/13-binary_tree_nodes.c)|13. Nodes|Write a function that counts the nodes with at least 1 child in a binary tree
 
 
 ## Author
