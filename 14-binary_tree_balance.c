@@ -8,7 +8,7 @@
 
 int binary_tree_balance(const binary_tree_t *tree)
 {
-	size_t count_1 = 0, count_2 = 0;
+	int count_1 = 0, count_2 = 0;
 
 	if (tree != NULL)
 	{
