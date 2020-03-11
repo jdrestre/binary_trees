@@ -29,7 +29,7 @@ File Name|Task Name|Task Description
 [7-binary_tree_inorder.c](https://github.com/MAZTRO/binary_trees/blob/master/7-binary_tree_inorder.c)|7. In-order traversal|Write a function that goes through a binary tree using in-order traversal
 [8-binary_tree_postorder.c](https://github.com/MAZTRO/binary_trees/blob/master/8-binary_tree_postorder.c)|8. Post-order traversal|Write a function that goes through a binary tree using post-order traversal
 [9-binary_tree_height.c](https://github.com/MAZTRO/binary_trees/blob/master/9-binary_tree_height.c)|9. Height |Write a function that measures the height of a binary tree
-
+[10-binary_tree_depth.c](https://github.com/MAZTRO/binary_trees/blob/master/10-binary_tree_depth.c)|10. Depth|Write a function that measures the depth of a node in a binary tree
 
 
 ## Author
