@@ -8,7 +8,24 @@
 
 size_t binary_tree_nodes(const binary_tree_t *tree)
 {
-	size_t count_1 = 0, count_2 = 0, count_3 = 0;
+	size_t count = 0;
+
+	if (tree != NULL)
+	{
+		if (tree == NULL)
+		{return (0); }
+
+		if (tree->left != NULL)
+		{count += binary_tree_nodes(tree->left); }
+		if (tree->right != NULL)
+		{count += binary_tree_nodes(tree->right); }
+		if (tree->left || tree->right)
+		{return (count + 1); }
+	}
+	return (0);
+
+
+ 	/* size_t count_1 = 0, count_2 = 0, count_3 = 0;
 
 	if (tree != NULL)
 	{
@@ -26,5 +43,5 @@ size_t binary_tree_nodes(const binary_tree_t *tree)
 		return (count_3);
 
 	}
-	return (0);
+	return (0); */
 }
