@@ -35,7 +35,8 @@ File Name|Task Name|Task Description
 [13-binary_tree_nodes.c](https://github.com/MAZTRO/binary_trees/blob/master/13-binary_tree_nodes.c)|13. Nodes|Write a function that counts the nodes with at least 1 child in a binary tree
 [14-binary_tree_balance.c](https://github.com/MAZTRO/binary_trees/blob/master/14-binary_tree_balance.c)|14. Balance factor|Write a function that measures the balance factor of a binary tree
 [15-binary_tree_is_full.c](https://github.com/MAZTRO/binary_trees/blob/master/15-binary_tree_is_full.c)|15. Is full|Write a function that checks if a binary tree is full
-
+[16-binary_tree_is_perfect.c](https://github.com/MAZTRO/binary_trees/blob/master/16-binary_tree_is_perfect.c)|16. Is perfect|Write a function that checks if a binary tree is perfect
+[17-binary_tree_sibling.c](https://github.com/MAZTRO/binary_trees/blob/master/17-binary_tree_sibling.c)|17. Sibling|Write a function that finds the sibling of a node
 
 
 ## Author
